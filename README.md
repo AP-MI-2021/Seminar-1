@@ -6,7 +6,7 @@ Studenții sunt încurajați să accepte și ei assignment-ul și să rezolve si
 
 Problemele de rezolvat:
 
-0. Folosirea git, github și github classroom - prezentare succintă.
+0. Instalare Python, folosirea git, github și github classroom - prezentare succintă.
 1. Se citesc trei numere: să se determine minimul.
 2. Să se determine dacă un număr dat este prim.
 3. Se citesc n numere, să se afișeze după fiecare număr citit dacă este sau nu prim.
