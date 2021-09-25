@@ -2,7 +2,7 @@
 
 Cadrul didactic va accepta assignment-ul și va rezolva problemele, împreună cu studenții, după care va face commit+push cu rezolvările. Pentru laboratoare, studenții vor trebui să lucreze cu git și github în stilul prezentat de către profesori la seminar.
 
-Studenții sunt încurajați să accepte și ei assignment-ul și să rezolva singuri problemele după seminar.
+Studenții sunt încurajați să accepte și ei assignment-ul și să rezolve singuri problemele după seminar.
 
 Problemele de rezolvat:
 
@@ -12,3 +12,5 @@ Problemele de rezolvat:
 3. Se citesc n numere, să se afișeze după fiecare număr citit dacă este sau nu prim.
 4. Se dă un număr, să se afișeze numărul dat cu cifrele în ordine inversă.
 5. Refactorizarea codului folosind cel puțin o funcție testată și specificată.
+
+Programul va avea un meniu care permite citirea datelor, alegerea funcționalității care se utilizează și ieșirea din aplicație. Aplicația se va opri doar când utilizatorul alege acest lucru. Nu se cer validări.
